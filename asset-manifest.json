@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.js": "/breakingbadapi/static/js/main.afe4dd3c.chunk.js",
+    "main.js.map": "/breakingbadapi/static/js/main.afe4dd3c.chunk.js.map",
+    "runtime-main.js": "/breakingbadapi/static/js/runtime-main.de191a20.js",
+    "runtime-main.js.map": "/breakingbadapi/static/js/runtime-main.de191a20.js.map",
+    "static/js/2.97bd378f.chunk.js": "/breakingbadapi/static/js/2.97bd378f.chunk.js",
+    "static/js/2.97bd378f.chunk.js.map": "/breakingbadapi/static/js/2.97bd378f.chunk.js.map",
+    "index.html": "/breakingbadapi/index.html",
+    "precache-manifest.20f4adcd347576c298b7a1644c4a51e5.js": "/breakingbadapi/precache-manifest.20f4adcd347576c298b7a1644c4a51e5.js",
+    "service-worker.js": "/breakingbadapi/service-worker.js"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.de191a20.js",
+    "static/js/2.97bd378f.chunk.js",
+    "static/js/main.afe4dd3c.chunk.js"
+  ]
+}
